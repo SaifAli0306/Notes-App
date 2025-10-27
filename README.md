@@ -50,7 +50,8 @@ npm run dev
 🌍 Live Demo
 
 🔗 Click here to view on Vercel
-notes-app-binc.vercel.app
+
+https://notes-app-binc.vercel.app/
 
 👨‍💻 Author
 
