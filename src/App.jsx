@@ -1,8 +1,8 @@
  
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './App.css'
-import Navbar from './components/navbar';
-import Viewpastes from './components/viewpastes';
+import Navbar from './components/Navbar';
+import Viewpastes from './components/Viewpastes';
 import Home from './components/Home';
 import { Provider } from 'react-redux';
 import Paste from './components/Paste';
